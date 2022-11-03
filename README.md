@@ -8,7 +8,7 @@
 
 <p align="center">
     <Strong>💻 Profile List </Strong><br><br>
-    <a href="https://hickee.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/Blog-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <a href="https://hickee.tistory.com/" {:target="_blank"}><img src="https://img.shields.io/badge/Blog-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br>
 <br>
 <Strong>📧 Email</Strong><br>Hickee32@gmail.com<br>

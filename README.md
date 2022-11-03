@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**hickee032/hickee032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=welcome&fontAlignY=30&desc=Hyun%20Github&descAlign=70)
 
-Here are some ideas to get you started:
+ 
+<!--[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+    <Strong>💻 Profile List </Strong><br><br>
+    <a href="https://hickee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<br>
+<br>
+<Strong>📧 Email</Strong><br>Hickee32@gmail.com<br>
+</p>
+<br>
+
+<p align="center">
+    <Strong>⚒️used as the main</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</p>
+
+<p align="center">
+    <Strong>📝 Study</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-9F1D20?style=for-the-badge&logo=Oracle&logoColor=white">
+</p>
+

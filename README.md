@@ -30,7 +30,8 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C Sharp-224099?style=for-the-badge&logo=C Sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-9F1D20?style=for-the-badge&logo=Oracle&logoColor=white">
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 </p>
 

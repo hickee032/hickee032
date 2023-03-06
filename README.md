@@ -36,3 +36,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hickee032&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+

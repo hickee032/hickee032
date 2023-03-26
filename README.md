@@ -37,6 +37,14 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hickee032&layout=compact&theme=dracula)](https://github.com/metleeha)
 
+
+<div style="display: flex;">
+  <a href="s" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickee032&exclude_repo=hickee032.github.io&layout=compact&theme=transparent" style="width: 45%; height: 200px;" />
+  </a>
+  <a href="s" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hickee032&theme=tokyonight&show_icons=true&theme=transparent" style="width: 45%; height: 200px;" />
+  </a>
+</div>
 
